@@ -11,3 +11,4 @@ first-project-spring/src/main/java/pl/edu/vistula/first_project_spring/contoller
 //// aplication code html and images
 first-project-spring/src/main/java/resoures/static  application images
 first-project-spring/src/main/java/resoures/templates   application html code
+![Zrzut ekranu 2025-01-22 121641](https://github.com/user-attachments/assets/ad2cdc86-edf2-4610-b2b8-c661937e1190)
